@@ -9,7 +9,6 @@ Original file is located at
 
 ! pip install pcapng
 
-https://www.youtube.com/watch?v=gOcT5r0spVM
 
 """以下是pcap 檔案
 
